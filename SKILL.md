@@ -2,9 +2,12 @@
 name: small-phone-app-development-workflow
 description: 通用小手机 App 开发协作监督流程
 version: 1.0
+author: 蓝色鸽子窝（小红书：1139353519）
 ---
 
 # 通用小手机 App 开发协作工作流
+
+> 作者：蓝色鸽子窝（小红书：1139353519）
 
 ## 适用范围
 
